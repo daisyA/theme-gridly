@@ -2180,7 +2180,7 @@ hr.large {
   min-height: 400px;
 }
 .post-content a {
-  text-decoration: underline;
+  text-decoration: none;
 }
 .post-content .socialbar-container a {
   text-decoration: none;
